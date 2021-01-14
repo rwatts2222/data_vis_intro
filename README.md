@@ -39,8 +39,11 @@ This is my first try at data visualization. The project uses a Netflix data set 
 
 #### Importing and setting up our data:
 1. Add the following imports to a new .ipynb file:
+
     import matplotlib.pyplot as plt
+
     import csv
+
     from collections import Counter
 
 2. Bring the CSV data into Python and parse it. For example:
