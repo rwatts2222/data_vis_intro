@@ -1,7 +1,12 @@
 # Netflix Data Visualization
 
 ## Description
-This is my first try at data visualization. The project uses a Netflix data set from Kaggle. It can parse the data using Python and create graphs using matplotlib. I only focused on which countries produce the most TV shows and movies on Netflix, but many more data visualizations and analyses can be performed.
+This is my first try at data visualization. The project uses a Netflix data set from Kaggle. It can parse the data using Python and create graphs using matplotlib. Focus areas include:
+- which countries produce the most content on Netflix
+- of those countries, the number of movies and TV shows each country produces
+- top 10 producers of movies by country
+- top 10 producers of tv shows by country
+- the 15 most common genres on Netflix
 
 ## Getting Started
 #### Folder setup:
